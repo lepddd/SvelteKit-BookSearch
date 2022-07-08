@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Asiyah Script;
+    src: url('./font/AsiyahScript-R2LE.ttf');
+}
+@font-face {
+    font-family: Typo Grotesk;
+    src: url('./font/TypoGrotesk-rqop.ttf');
+}
+@font-face {
+    font-family: Typo Grotesk bold;
+    src: url('./font/TypoGroteskBold-2Kxl.ttf');
+}
+*{margin: 0;padding: 0; box-sizing: border-box;}
